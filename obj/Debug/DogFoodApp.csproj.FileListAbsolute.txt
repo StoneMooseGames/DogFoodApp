@@ -1,0 +1,10 @@
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\bin\Debug\DogFoodApp.exe.config
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\bin\Debug\DogFoodApp.exe
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\bin\Debug\DogFoodApp.pdb
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.csproj.AssemblyReference.cache
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.Form1.resources
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.Properties.Resources.resources
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.csproj.GenerateResource.cache
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.csproj.CoreCompileInputs.cache
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.exe
+C:\Users\miktz\source\repos\DogFoodApp\DogFoodApp\obj\Debug\DogFoodApp.pdb
